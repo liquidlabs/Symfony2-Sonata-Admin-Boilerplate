@@ -68,7 +68,7 @@ php app/console fos:user:create admintest admin@test.com pass --super-admin
 </pre>
 
 
-7. Thats it!. You are ready to go :).
+7. Thats it!. You are ready to go. Visit url below for your Admin Dashboard :).
 <pre>
 http://localhost/symfony_boilerplate/web/app_dev.php/admin/dashboard
 </pre>
