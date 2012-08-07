@@ -80,7 +80,7 @@ php app/console fos:user:create admintest admin@test.com pass --super-admin
 
 7. Thats it!. You are ready to go :).
 <pre>
-http://localhost/symfony_boilerplate/app_dev.php/admin/dashboard
+http://localhost/symfony_boilerplate/web/app_dev.php/admin/dashboard
 </pre>
 
 
