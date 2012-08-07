@@ -37,25 +37,15 @@ Download the files and follow the steps.
 php bin/vendors install
 </pre>
 
-
 2. Configure your database by updating information in app/config/parameters.ini
 <pre>
-[parameters]
-    database_driver   = pdo_mysql
-    database_host     = localhost
-    database_port     =
-    database_name     = symfony_boilerplate
-    database_user     = root
-    database_password =
-
-    mailer_transport  = smtp
-    mailer_host       = localhost
-    mailer_user       =
-    mailer_password   =
-
+database_driver   = pdo_mysql
+database_host     = localhost
+database_port     = 
+database_name     = symfony_boilerplate
+database_user     = root
+database_password = 
 </pre>
-
-
 
 3. Run the following command to create the database
 <pre>
