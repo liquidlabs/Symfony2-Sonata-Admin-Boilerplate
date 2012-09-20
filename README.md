@@ -77,6 +77,7 @@ http://localhost/symfony_boilerplate/web/app_dev.php/admin/dashboard
 Customizing Symfony with Sonata yourself
 ===========================================
 Below is a tutorial explaining how to customize & install
+<br />
 <http://www.itsalif.info/content/symfony2-sonata-admin-bundle-boilerplate-install>
 
 
